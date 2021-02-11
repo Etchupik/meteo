@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Forecast from "./components/prévisions/prévisions";
+import Prévision from "./components/prévisions/prévisions";
 
 function App() {
  return (
@@ -9,7 +9,7 @@ function App() {
        <h1>Météo</h1>
      </header>
      <main>
-       <Forecast />
+       <Prévision />
      </main>
      <footer>
        Page crée par Christian Camelot
