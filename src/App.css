@@ -58,3 +58,9 @@ footer {
 header {
   padding: 25px;
 }
+
+p {
+  font-size: 12px;
+  text-align: center;
+  line-height: 0.5;
+}
